@@ -1,0 +1,5 @@
+{
+  "name": "Next Token Visualizer",
+  "description": "Interactive visualization of LLM generation parameters including Temperature, Top-K, and Top-P using a bar chart.",
+  "requestFramePermissions": []
+}
